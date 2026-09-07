@@ -1,4 +1,4 @@
-# Experiment 12 -- Image Processing and Object Detection
+# EX-12-Face-Detection-with-Haar-Cascades
 
 ## Name
 
